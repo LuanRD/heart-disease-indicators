@@ -13,7 +13,7 @@
 ## Stacks
 - Main Language: Python;
 - Model Creation:  Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Imblearn, XGBoost, Skopt, and Yellowbrick;
-- Deploy: FastAPI, Flask, HTML, and Streamlit (Web app).
+- Deploy: FastAPI, Flask, HTML, Streamlit (Web app), and Docker.
 
 Project Organization
 ------------
