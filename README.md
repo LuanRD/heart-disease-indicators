@@ -15,6 +15,11 @@
 - Model Creation:  Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Imblearn, XGBoost, Skopt, and Yellowbrick;
 - Deploy: FastAPI, Flask, HTML, Streamlit (Web app), and Docker.
 
+## Apps (Deployed on Heroku)
+- Flask: https://indicators-heart-disease-flask.herokuapp.com/
+- Streamlit(english): https://heart-disease-streamlit-lrd.herokuapp.com/
+- Streamlit(português): https://indicadores-doencas-cardiacas.herokuapp.com/
+
 Project Organization
 ------------
 
